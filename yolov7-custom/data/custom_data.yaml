@@ -1,9 +1,3 @@
-# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: ./data/train
-val: ./data/val
-
-# number of classes
-nc: 5
-
-# class names
-names: [ 'Big G', 'Noby', 'Sneech', 'Doraemon', 'Sue' ]
+version https://git-lfs.github.com/spec/v1
+oid sha256:72643f8c1772b2ef749dc7e2dd32b7bfb9c99bffc30e2a1f9bc2cb28ee6fb6eb
+size 264
