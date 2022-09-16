@@ -9,7 +9,12 @@
 `pip install labelImg`  
 `labelImg`  
 - 修改 下載的 github yolov7 檔案  
-yolov7/ > data/
+module.exports = {
+  "name": "yolov7",
+  "path":"./",
+  "ignoreList":[/^\./],
+  "type": "console"
+}
 
 ## 環境
 
