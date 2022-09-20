@@ -20,9 +20,9 @@
 
 
 
-## 環境
+## 平台
 
-#### Google Colaboratory
+### Google Colaboratory
 
 `%cd /content/yolov7`  
 
@@ -34,7 +34,7 @@
 
 - 結果在 yolov7/runs/detect/exp/  
 
-#### Windows Anaconda
+### Windows Anaconda
 
 `cd yolov7`  
 
@@ -47,7 +47,7 @@
 
 - 結果在 yolov7/runs/detect/exp/  
 
-#### Linux Docker
+### Linux Docker
 
 - 下載 yolov7-custom.zip 到 Linux 並解壓縮  
 
