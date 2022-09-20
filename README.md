@@ -62,7 +62,9 @@
 - Inference on image  
 `python detect.py --weights yolov7_custom.pt --conf 0.5 --img-size 640 --source do_01.jpg`  
 
-- 結果在 app/runs/detect/exp/  
+- 將圖片從 container app/runs/detect/exp/ 中複製到host端，從 host 端:  
+`docker cp [container NAMES]:/[container圖片路徑]  [儲存到本機端路徑位址]`  
+`docker cp doraemon:/app/runs/detect/exp/do_01.jpg ..`  
 
 
 
