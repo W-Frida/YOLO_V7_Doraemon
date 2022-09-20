@@ -49,7 +49,7 @@
 
 #### Linux Docker
 
-- 下載 for docker/yolov7-custom.zip 到 Linux 並解壓縮  
+- 下載 yolov7-custom.zip 到 Linux 並解壓縮  
 
   `cd yolov7-custom`
 
